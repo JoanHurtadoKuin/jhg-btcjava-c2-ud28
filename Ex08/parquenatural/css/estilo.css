@@ -15,19 +15,30 @@ h1{
   color: rgba(106, 182, 31, 0.925);
 }
 
-div {
-  border: 1px;
-  border-style: ridge;
-  margin: 20px;
-  padding-left: 20px;
-
-}
-
 h2 {
   text-decoration: underline;
-  padding-top: 5px;
+
 }
 
 h3{
     margin: 5px;
+}
+
+
+.borde{
+  border: 1px;
+  border-style: solid;
+  
+}
+
+
+#contenedor{
+  display: flex;
+}
+
+
+#contenedor_hijo{
+  display: flex;
+  margin-right: 50px;
+  margin-bottom: 50px;
 }
