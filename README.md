@@ -11,4 +11,4 @@ Desenvolupament frontend - HTML/CSS
 
 <a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex05/platosemana.html">Ejercicio 5</a>
 
-<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex06/">Ejercicio 6 ParqueNatural</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/parquenatural/">Ejercicio 6 ParqueNatural</a>
