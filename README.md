@@ -1,4 +1,9 @@
 # jhg-btcjava-c2-ud28
 Desenvolupament frontend - HTML/CSS
 
-<a href="https://github.com/JoanHurtadoKuin/jhg-btcjava-c5-ud28/tree/master/Ex01/index.html">Ejercicio 1</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex01/">Ejercicio 1</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex02/">Ejercicio 2</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex03/">Ejercicio 3</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex04/">Ejercicio 4</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex05/">Ejercicio 5</a>
+<a href="https://joanhurtadokuin.github.io/jhg-btcjava-c5-ud28/Ex06/">Ejercicio 6 ParqueNatural</a>
