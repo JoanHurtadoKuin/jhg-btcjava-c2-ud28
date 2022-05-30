@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(252, 237, 220);
+}
+
+h1{
+    background-color: goldenrod;
+    color: grey;
+    font-size: 25px;
+
+}
+
+h2{
+    color: cadetblue;
+    font-size: 30px;
+}
+
+h3{
+    color: rgb(83, 81, 202);
+}
+
+#separacion{
+    padding-left: 30px;
+}
+
+b{
+    color:  slategray;
+}
